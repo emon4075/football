@@ -1,26 +1,34 @@
-body{
+body {
     background-color: #E2DCC8;
+    font-family: 'Barbie', sans-serif;
 }
-h1{
-    font-family: 'Tektur', cursive;
+
+h1 {
+    font-family: 'Barbie', sans-serif;
+    color: rgb(236, 67, 153);
 }
-p{
+
+p {
     margin: 20px;
     word-spacing: 3px;
     font-family: 'Victor Mono', monospace;
 }
-#head{
+
+#head {
     text-align: center;
 }
-h3{
+
+h3 {
     text-align: center;
     text-decoration: none;
-    color: blue;
+    color: rgb(236, 67, 153);
 }
-a{
+
+a {
     text-decoration: none;
 }
-footer{
+
+footer {
     text-align: center;
     font-family: 'Tektur', cursive;
 }
